@@ -13,8 +13,8 @@ export const siteConfig: SiteConfig = {
   name: "oniguy4649",
   description:
     "Blog platform built with Next.js, shadcn/ui, prisma and markdown.",
-  url: "https://next-blog-cj.vercel.app/",
-  ogImage: "https://next-blog-cj.vercel.app/og",
+  url: "https://blog-diploma-cmcmmmb8s-oniguy4649s-projects.vercel.app",
+  ogImage: "https://blog-diploma-cmcmmmb8s-oniguy4649s-projects.vercel.app/og",
   links: {
     twitter: "https://x.com/oniguy4649",
     github: "https://github.com/oniguy4649",
