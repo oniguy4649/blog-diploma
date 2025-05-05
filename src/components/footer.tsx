@@ -28,9 +28,9 @@ export default function Footer() {
                 href="https://x.com/oniguy4649"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="X"
+                aria-label="Twitter"
               >
-                <Icons.x className="h-6 w-6 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300" />
+                <Icons.twitter className="h-6 w-6 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300" />
               </a>
               <a
                 href="https://github.com/oniguy4649"
